@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int a= 10;
-        int b= 20; //아무거나 쓰고 커밋 해보기..
+        int b= 35; //아무거나 쓰고 커밋 해보기..
 
         //dev 추가..커밋.
     }
